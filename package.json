@@ -1,0 +1,11 @@
+{
+  "name": "fixi-redo",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Reimplementation of the minimalist fixi.js generalized hypermedia controls library.",
+  "scripts": {
+    "build": "cp src/fixi.js dist/fixi.js",
+    "test": "echo \"Open test/test.html in a browser to run the visual test suite.\""
+  }
+}
+
